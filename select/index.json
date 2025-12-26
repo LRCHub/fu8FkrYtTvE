@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "市営ダンスホール",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-26T05:02:25.655985Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "市営ダンスホール",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_市営ダンスホール_乃木坂46.txt"
+    }
+  ]
+}
